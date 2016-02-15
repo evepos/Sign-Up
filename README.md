@@ -19,5 +19,5 @@ Assistance-Team Sign-up page, 단체 가입 신청 페이지입니다.
 - If you have a passion for PocketMine, let's join us!
 
 ## 가입신청 페이지 링크# #Sign-up page Link
-https://github.com/organization/SignUp/issues/1
+https://github.com/Assistance-Team/Sign-Up/issues/1
 
